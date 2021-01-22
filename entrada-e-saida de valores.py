@@ -1,0 +1,6 @@
+nome = input ('Como você se chama?')
+idade = input ('Quantos anos vocÊ tem?')
+peso = input ('Qual é o seu peso?')
+cachorro = input ('Você tem cachorro?')
+nome_cao = input ('Qual é o nome dele?')
+print (nome, idade, peso, cachorro, nome_cao)
